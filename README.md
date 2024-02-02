@@ -1,5 +1,5 @@
 # Dogfeeder
-Features:
+Features:\
 1.feed dog automatically with feeding plan(times&portion) set up by user.\
 2.remotely monitor dog's activity with a camera.\
 3.analyse and store stats such as eating duration, water consumption, and generate visual for users.\
